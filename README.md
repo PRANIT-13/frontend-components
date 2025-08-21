@@ -18,18 +18,31 @@ This project contains two example components: **InputField** and **DataTable**.
 ## 📂 Folder Structure
 frontend-components/
 ├── .storybook/ # Storybook configuration
+
 ├── src/
+
 │ ├── components/ # Reusable components
+
 │ │ ├── InputField.tsx
+
 │ │ ├── DataTable.tsx
+
 │ │ └── ...
+
 │ ├── stories/ # Storybook stories
+
 │ ├── tests/ # Component tests
+
 │ └── App.tsx # Demo usage
+
 ├── package.json
+
 ├── vite.config.ts
+
 ├── tailwind.config.js
+
 └── README.md
+
 
 
 ---
